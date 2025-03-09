@@ -82,7 +82,7 @@ export const myProjects = [
     ],
   },
   {
-    title: 'Proxy Proof Smart Attendance',
+    title: 'Proxy Proof Smart Attendance under Atharva Bedekar',
     desc: 'A smart attendance system that eliminates proxy attendance using facial recognition technology.',
     subdesc: 'Leveraging AI-powered face detection to ensure accurate and secure attendance tracking.',
     href: '#',
