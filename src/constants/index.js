@@ -36,9 +36,9 @@ export const myProjects = [
     },
     spotlight: '/assets/spotlight1.png',
     tags: [
-      { id: 1, name: 'React.js', path: 'public/assets/js.png' },
+      { id: 1, name: 'React.js', path: '/assets/js.png' },
       { id: 2, name: 'TailwindCSS', path: 'assets/tailwindcss.png' },
-      { id: 3, name: 'Git', path: 'public/assets/git.png' },
+      { id: 3, name: 'Git', path: '/assets/git.png' },
     ],
   },
   {
